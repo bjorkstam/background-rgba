@@ -1,0 +1,1 @@
+Small tool to help generate some copy/paste ready css for semi-cross-browser compliant alpha-transparent backgrounds. Modern browsers use `rgba()` with `rgb()` as fallback for older browsers. IE will look at the `filter` property to achieve alpha-transparent backgrounds. See http://bjorkst.am/rgba/
